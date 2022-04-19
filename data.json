@@ -14,7 +14,11 @@
         "CSS",
         "JavaScript"
       ],
-      "image": "https://res.cloudinary.com/dz8on44po/image/upload/v1650071603/R1S2/photosnap_gnlw2u.svg"
+      "image": "https://res.cloudinary.com/dz8on44po/image/upload/v1650071603/R1S2/photosnap_gnlw2u.svg",
+      "chip": [
+        "New!",
+        "Feature"
+      ]
     },
     {
       "id": 2,
@@ -29,7 +33,11 @@
         "Python",
         "React"
       ],
-      "image": "https://res.cloudinary.com/dz8on44po/image/upload/v1650230754/R1S2/manage_riflv1.svg"
+      "image": "https://res.cloudinary.com/dz8on44po/image/upload/v1650230754/R1S2/manage_riflv1.svg",
+      "chip": [
+        "New!",
+        "Feature"
+      ]
     },
     {
       "id": 3,
@@ -45,7 +53,10 @@
         "Sass",
         "JavaScript"
       ],
-      "image": "https://res.cloudinary.com/dz8on44po/image/upload/v1650230753/R1S2/account_rh1hvb.svg"
+      "image": "https://res.cloudinary.com/dz8on44po/image/upload/v1650230753/R1S2/account_rh1hvb.svg",
+      "chip": [
+        "New!"
+      ]
     },
     {
       "id": 4,
@@ -60,7 +71,10 @@
         "CSS",
         "JavaScript"
       ],
-      "image": "https://res.cloudinary.com/dz8on44po/image/upload/v1650230766/R1S2/myhome_qvmk1m.svg"
+      "image": "https://res.cloudinary.com/dz8on44po/image/upload/v1650230766/R1S2/myhome_qvmk1m.svg",
+      "chip": [
+        "New!"
+      ]
     },
     {
       "id": 5,
