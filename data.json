@@ -90,7 +90,8 @@
         "Sass",
         "Ruby"
       ],
-      "image": "https://res.cloudinary.com/dz8on44po/image/upload/v1650230759/R1S2/loop-studios_dckrlt.svg"
+      "image": "https://res.cloudinary.com/dz8on44po/image/upload/v1650230759/R1S2/loop-studios_dckrlt.svg",
+      "chip": []
     },
     {
       "id": 6,
@@ -105,7 +106,8 @@
         "Ruby",
         "RoR"
       ],
-      "image": "https://res.cloudinary.com/dz8on44po/image/upload/v1650232474/R1S2/faceit_1_jmfrv9.svg"
+      "image": "https://res.cloudinary.com/dz8on44po/image/upload/v1650232474/R1S2/faceit_1_jmfrv9.svg",
+      "chip": []
     },
     {
       "id": 7,
@@ -121,7 +123,8 @@
         "Sass",
         "JavaScript"
       ],
-      "image": "https://res.cloudinary.com/dz8on44po/image/upload/v1650232842/R1S2/shortly_2_t8lqcm.svg"
+      "image": "https://res.cloudinary.com/dz8on44po/image/upload/v1650232842/R1S2/shortly_2_t8lqcm.svg",
+      "chip": []
     },
     {
       "id": 8,
@@ -137,7 +140,8 @@
         "JavaScript",
         "Sass"
       ],
-      "image": "https://res.cloudinary.com/dz8on44po/image/upload/v1650230757/R1S2/insure_zbm71t.svg"
+      "image": "https://res.cloudinary.com/dz8on44po/image/upload/v1650230757/R1S2/insure_zbm71t.svg",
+      "chip": []
     },
     {
       "id": 9,
@@ -153,7 +157,8 @@
         "Django",
         "Python"
       ],
-      "image": "https://res.cloudinary.com/dz8on44po/image/upload/v1650230750/R1S2/eyecam-co_jahkna.svg"
+      "image": "https://res.cloudinary.com/dz8on44po/image/upload/v1650230750/R1S2/eyecam-co_jahkna.svg",
+      "chip": []
     },
     {
       "id": 10,
@@ -169,7 +174,8 @@
         "Sass",
         "JavaScript"
       ],
-      "image": "https://res.cloudinary.com/dz8on44po/image/upload/v1650232477/R1S2/the-air-filter-company_1_efwfby.svg"
+      "image": "https://res.cloudinary.com/dz8on44po/image/upload/v1650232477/R1S2/the-air-filter-company_1_efwfby.svg",
+      "chip": []
     }
   ]
 }
