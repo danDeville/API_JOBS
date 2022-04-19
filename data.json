@@ -1,0 +1,161 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "company": "Photosnap",
+      "position": "Senior Frontend Developer",
+      "timePublication": "1d ago",
+      "time": "Full Time",
+      "location": "USA only",
+      "technologies": [
+        "Frontend",
+        "Senior",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "image": "https://res.cloudinary.com/dz8on44po/image/upload/v1650071603/R1S2/photosnap_gnlw2u.svg"
+    },
+    {
+      "id": 2,
+      "company": "Manage",
+      "position": "Fullstack Developer",
+      "timePublication": "1d ago",
+      "time": "Part Time",
+      "location": "remote",
+      "technologies": [
+        "Fullstack",
+        "Midweight",
+        "Python",
+        "React"
+      ],
+      "image": "https://res.cloudinary.com/dz8on44po/image/upload/v1650230754/R1S2/manage_riflv1.svg"
+    },
+    {
+      "id": 3,
+      "company": "Account",
+      "position": "Junior Frontend Developer",
+      "timePublication": "2d ago",
+      "time": "Part Time",
+      "location": "USA Only",
+      "technologies": [
+        "Frontend",
+        "Junior",
+        "React",
+        "Sass",
+        "JavaScript"
+      ],
+      "image": "https://res.cloudinary.com/dz8on44po/image/upload/v1650230753/R1S2/account_rh1hvb.svg"
+    },
+    {
+      "id": 4,
+      "company": "MyHome",
+      "position": "Junior Frontend Developer",
+      "timePublication": "5d ago",
+      "time": "contract time",
+      "location": "USA Only",
+      "technologies": [
+        "Frontend",
+        "Junior",
+        "CSS",
+        "JavaScript"
+      ],
+      "image": "https://res.cloudinary.com/dz8on44po/image/upload/v1650230766/R1S2/myhome_qvmk1m.svg"
+    },
+    {
+      "id": 5,
+      "company": "Loop Studios",
+      "position": "Software Engineer",
+      "timePublication": "1w ago",
+      "time": "Full Time",
+      "location": "Worldwide",
+      "technologies": [
+        "Fullstack",
+        "Midweight",
+        "JavaScript",
+        "Sass",
+        "Ruby"
+      ],
+      "image": "https://res.cloudinary.com/dz8on44po/image/upload/v1650230759/R1S2/loop-studios_dckrlt.svg"
+    },
+    {
+      "id": 6,
+      "company": "FaceIt",
+      "position": "Backend Junior Developer",
+      "timePublication": "2w ago",
+      "time": "Full Time",
+      "location": "UK Only",
+      "technologies": [
+        "bBckend",
+        "Junior",
+        "Ruby",
+        "RoR"
+      ],
+      "image": "https://res.cloudinary.com/dz8on44po/image/upload/v1650232474/R1S2/faceit_1_jmfrv9.svg"
+    },
+    {
+      "id": 7,
+      "company": "Shortly",
+      "position": "Junior Developer",
+      "timePublication": "2w ago",
+      "time": "Full Time",
+      "location": "Wordlwide",
+      "technologies": [
+        "Frontend",
+        "Junior",
+        "HTML",
+        "Sass",
+        "JavaScript"
+      ],
+      "image": "https://res.cloudinary.com/dz8on44po/image/upload/v1650232842/R1S2/shortly_2_t8lqcm.svg"
+    },
+    {
+      "id": 8,
+      "company": "Insure",
+      "position": "Junior Frontend Developer",
+      "timePublication": "3w ago",
+      "time": "Full Time",
+      "location": "USA Only",
+      "technologies": [
+        "Frontend",
+        "Junior",
+        "Vue",
+        "JavaScript",
+        "Sass"
+      ],
+      "image": "https://res.cloudinary.com/dz8on44po/image/upload/v1650230757/R1S2/insure_zbm71t.svg"
+    },
+    {
+      "id": 9,
+      "company": "Eyecam Co.",
+      "position": "Fullstack Engineer",
+      "timePublication": "3w ago",
+      "time": "Full Time",
+      "location": "Wordlwide",
+      "technologies": [
+        "Fullstack",
+        "Midweight",
+        "JavaScript",
+        "Django",
+        "Python"
+      ],
+      "image": "https://res.cloudinary.com/dz8on44po/image/upload/v1650230750/R1S2/eyecam-co_jahkna.svg"
+    },
+    {
+      "id": 10,
+      "company": "The Air Filter Company",
+      "position": "Frontend Developer",
+      "timePublication": "1mo ago",
+      "time": "Part Time",
+      "location": "Wordlwide",
+      "technologies": [
+        "Frontend",
+        "Junior",
+        "React",
+        "Sass",
+        "JavaScript"
+      ],
+      "image": "https://res.cloudinary.com/dz8on44po/image/upload/v1650232477/R1S2/the-air-filter-company_1_efwfby.svg"
+    }
+  ]
+}
